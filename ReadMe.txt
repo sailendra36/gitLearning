@@ -16,4 +16,17 @@ git commit -m "comment" -> commits changes with a comment
 
 git log -> gives logs of commits
 
+git show <commit hash key> -> shows commit details
+
+git show --name-only <commit hash key> -> shows commit details with only changed file name
+
+git branch -> displays overview of all available branches and currently checked out branch
+
+git branch <branchName> -> creates a new branch from master
+
+git checkout <branchName> -> switches/checkouts to other branch
+
+
+
+
 
